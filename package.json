@@ -1,6 +1,6 @@
 {
-  "name": "y",
-  "version": "y",
+  "name": "n",
+  "version": "n",
   "private": false,
   "homepage": "https://eugen-ko.github.io/goit-react-hw-01-components",
   "dependencies": {
@@ -44,9 +44,9 @@
   "devDependencies": {
     "gh-pages": "^3.2.3"
   },
-  "description": "y",
+  "description": "n",
   "main": "y",
   "repository": "y",
   "author": "y",
-  "license": "y"
+  "license": "n"
 }
