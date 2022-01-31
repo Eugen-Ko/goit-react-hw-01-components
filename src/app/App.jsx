@@ -11,7 +11,13 @@ import transactions from '../Jsons/transactions.json';
 function App() {
   return (
     <div>
-      <Profile {...user} />
+      <Profile 
+        username = {user.username}
+        tag = {user.tag}
+        location = {user.location}
+        avatar = {user.avatar}
+        stats = {user.stats}
+      />
       <Statistics 
         title = "Upload stats"
         stats = {data}
